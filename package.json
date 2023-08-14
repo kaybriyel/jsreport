@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "jsreport start"
+  },
+  "dependencies": {
+    "@jsreport/jsreport-cli": "^3.2.3",
+    "jsreport": "^3.13.0"
+  }
+}

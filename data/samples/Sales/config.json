@@ -1,0 +1,14 @@
+{
+    "name": "Sales",
+    "shortid": "FnHe~Wz",
+    "creationDate": {
+        "$$date": 1692007050400
+    },
+    "modificationDate": {
+        "$$date": 1692007050400
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "I9CoQQGXWVXpGeZu",
+    "$entitySet": "folders"
+}
