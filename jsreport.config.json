@@ -30,7 +30,7 @@
   "extensions": {
     "authentication": {
       "cookieSession": {
-        "secret": "vw-IVFXJe6k1njjs"
+        "secret": "5Zr86aLlTjuzDcP3"
       },
       "admin": {
         "username": "admin",

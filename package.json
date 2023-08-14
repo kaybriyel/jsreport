@@ -3,7 +3,7 @@
     "node": ">=16.11 <18"
   },
   "scripts": {
-    "start": "jsreport start"
+    "start": "jsreport init && jsreport start"
   },
   "dependencies": {
     "@jsreport/jsreport-cli": "^3.2.3",
