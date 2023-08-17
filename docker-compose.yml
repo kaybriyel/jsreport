@@ -1,0 +1,11 @@
+services:
+  app:
+    build:
+      context: ./
+    restart: always
+
+    volumes:
+      - ./package.json:/usr/app/package.json
+
+    ports:
+      - 5488:5488

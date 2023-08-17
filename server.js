@@ -4,8 +4,8 @@ if (process.env.JSREPORT_CLI) {
   // export jsreport instance to make it possible to use jsreport-cli
   module.exports = jsreport
 } else {
-  jsreport.init().then(() => {
-    // running
+  jsreport.init().then((a) => {
+    // running    
   }).catch((e) => {
     // error during startup
     console.error(e.stack)

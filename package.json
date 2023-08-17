@@ -1,12 +1,15 @@
 {
   "engines": {
-    "node": ">=16.11 <18"
+    "node": ">=16.11 <25"
   },
   "scripts": {
     "start": "jsreport init && jsreport start"
   },
   "dependencies": {
     "@jsreport/jsreport-cli": "^3.2.3",
-    "jsreport": "^3.13.0"
+    "express": "^4.18.2",
+    "html-pdf-chrome": "^0.8.4",
+    "jsreport": "^3.13.0",
+    "puppeteer": "^21.0.3"
   }
 }
